@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        System.out.println(" привет мир ");
+        //урок 2
+        int panda = 1100;
+        System.out.print(panda);
     }
 }
